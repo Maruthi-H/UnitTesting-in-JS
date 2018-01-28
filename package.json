@@ -1,0 +1,31 @@
+{
+  "name": "jsunittesting",
+  "version": "1.0.0",
+  "description": "unit testing in js \u001b[D\u001b[D\u001b[Dvanilla js and using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maruthi-H/UnitTesting-in-JS.git"
+  },
+  "keywords": [
+    "unit",
+    "testing",
+    "js",
+    "jest",
+    "react",
+    "vanilla",
+    "js"
+  ],
+  "author": "Maruthi H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maruthi-H/UnitTesting-in-JS/issues"
+  },
+  "homepage": "https://github.com/Maruthi-H/UnitTesting-in-JS#readme",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
